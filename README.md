@@ -36,4 +36,7 @@ Congrats on making it this far. Now you want to show your friend youre new shitt
 Step 3 in a video https://www.youtube.com/watch?v=DGix3gtZ7ew
 
 
-## You are done! 
+## You are done with all the basics. 
+Now you can explore other stuff and build up like what does hostgator do and godaddy. There are types of web hosting such as shared, reseller, vps, dedicated, cloud, and managed wordpress. They all have pros and cons so look into that. Things to consider; how much traffic are you planning to get, what kind of website are you trying to make, which servies are you willing to pay for etc. All this you can find on youtube or google and just keep reading. 
+
+Cheers
