@@ -27,7 +27,7 @@ Open the index.html file and delete everything in it. Now put your own html code
 
 
 ## Step 3 Make website public
-Congrats on making it this far. Now you want to show your friend youre new shitty website but there is a problem. You most likely don't have a static ip address and the DHCP will make sure that your ip address changes every now and then. You can either call your internet service provider(ISP) and ask for a static IP address and if that doesn't work then sign up for https://www.noip.com/ and create a hostname under dynamic dns (DDNS). Now sign into your ISP domain and mess with the settings. You will need to 
+Congrats on making it this far. Now you want to show your imaginary friends your new "amazing" website but there is a problem. You most likely don't have a static ip address and the DHCP will make sure that your ip address changes every now and then. You can either call your internet service provider(ISP) and ask for a static IP address and if that doesn't work then sign up for https://www.noip.com/ and create a hostname under dynamic dns (DDNS). Now sign into your ISP domain and mess with the settings. You will need too 
 
 - set up port forwarding tcp/udp 80 (80 is default for HTTP)
 - set up port forwarding tcp/udp 22 (22 is default for SSH if you want to remote into your pi from anywhere)
